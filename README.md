@@ -9,4 +9,4 @@ This is a terminal-based game where the user's objective is to cross a field ful
 - Pip install "termcolor" in the terminal<br>
 - Click Minewalker.py to run the game<br></br>
 
-Note: Minewalker.py will create a local file called "High_Scores.txt" in the same directory when the player's scores are saved.
+Note: Minewalker.py will create a local file called "High_Scores.txt" in the same directory when the player's scores are saved. It can only run on Windows machines.
